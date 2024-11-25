@@ -38,7 +38,8 @@ Figure -02 HALF Subtractor
 ![Screenshot 2024-11-25 193818](https://github.com/user-attachments/assets/4163c768-8a71-49ac-908a-8772ddf72562)
 
 
-![WhatsApp Image 2024-11-14 at 17 55 30_822ceb60](https://github.com/user-attachments/assets/1ca658b1-a457-49aa-a65a-4f2e08b51676)
+![Screenshot 2024-11-25 194403](https://github.com/user-attachments/assets/0a6560fc-ffca-4f52-9181-66d8083a278a)
+
 
 
 **Procedure**
